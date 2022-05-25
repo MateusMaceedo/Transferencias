@@ -49,8 +49,6 @@ $ cd dados
 $ json-server --watch db.json
 
 ```
-Feito por Rafaela Custódio [Entre em contato!](https://www.linkedin.com/in/rafaela-custodio/)
-
 [nodejs]: https://nodejs.org/
 [angular]: https://angular.io/
 [vscode]: https://code.visualstudio.com/
