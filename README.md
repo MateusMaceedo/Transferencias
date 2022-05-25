@@ -10,18 +10,6 @@ Os usuários encontrarão as seguintes funcionalidades:
 - Fazer transferência
 - Visualizar transferências
 
-Projeto desenvolvido para estudar e aprender Angular
-
-## Layout
-
-<p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="bytebank" title="#bytebank" src="./assets/extrato.png" > 
-
-  <img alt="bytebank" title="#bytebank" src="./assets/novo.png">
-
-</p>
-
-
 ## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -50,7 +38,7 @@ $ ng s -o
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
-### Rodando json-server 
+### Rodando json-server
 
 ```bash
 
